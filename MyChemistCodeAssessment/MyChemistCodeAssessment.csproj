@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solution2Spec.cs" />
+    <Compile Include="Solution2.cs" />
     <Compile Include="Solution1Spec.cs" />
     <Compile Include="Solution1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

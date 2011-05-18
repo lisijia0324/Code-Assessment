@@ -12,6 +12,8 @@ namespace Shell
         {
             string foo = Solution1.StringBetween("I love my dog Dash!", "love", "dog");
             Console.WriteLine(foo);
+            string bar = Solution2.CustomFormatDateTime(DateTime.Now);
+            Console.WriteLine(bar);
         }
     }
 }
